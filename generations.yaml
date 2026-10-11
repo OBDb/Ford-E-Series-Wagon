@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_E-Series"
+
+generations:
+  - name: "Fourth Generation (passenger wagon)"
+    start_year: 1992
+    end_year: 2014
+    description: "The passenger version of the E-Series van, with 4.6 L and 5.4 L V8s, the 6.8 L V10 and Power Stroke diesels."
